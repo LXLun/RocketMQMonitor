@@ -1,2 +1,10 @@
-# RocketMQMonitor
-一个可运行的RecketMQ监控的jar包，将数据以open-falcon的格式发送到相关的服务器地址
+RocketMQ Console
+================
+
+为RocketMQ提供web控制台
+
+
+Note
+================
+
+This fork is compatible with [RocketMQ](http://github.com/alibaba/rocketmq) __3.2.6__
