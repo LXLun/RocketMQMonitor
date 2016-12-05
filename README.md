@@ -1,0 +1,2 @@
+# RocketMQMonitor
+一个可运行的RecketMQ监控的jar包，将数据以open-falcon的格式发送到相关的服务器地址
