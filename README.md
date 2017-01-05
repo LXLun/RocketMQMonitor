@@ -1,8 +1,6 @@
 RocketMQ Console
 ================
-
-为RocketMQ提供web控制台
-
+监控RockerMQ的数据信息以Open-Falcon的格式传出
 
 Note
 ================
